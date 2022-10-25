@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "regex": "cpp",
+        "memory": "cpp",
+        "system_error": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "xlocbuf": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "locale": "cpp",
+        "algorithm": "cpp",
+        "xlocale": "cpp"
+    }
+}
